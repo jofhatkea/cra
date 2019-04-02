@@ -43,3 +43,11 @@ alt="passing down props" width="240" height="180" border="10" /></a>
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=TLWg2BszaUU
 " target="_blank"><img src="http://img.youtube.com/vi/TLWg2BszaUU/0.jpg" 
 alt="Rendering Arrays" width="240" height="180" border="10" /></a>
+
+5. Spread operator
+
+- https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Spread_syntax
+
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=s5WwkDTULpo
+" target="_blank"><img src="http://img.youtube.com/vi/s5WwkDTULpo/0.jpg" 
+alt="Spread Operator" width="240" height="180" border="10" /></a>

@@ -7,28 +7,26 @@ function App() {
     {
       name: "Jonas",
       hobbies: ["js", "beer"],
-      email: "jofh@kea.dk"
+      email: "jofh@kea.dk",
+      kids: 3,
+      cars: "Berlingo"
     },
     {
       name: "Peter",
       hobbies: ["js", "cats"],
-      email: "petl@kea.dk"
+      email: "petl@kea.dk",
+      kids: 0
     },
     {
       name: "Ida",
       hobbies: ["sprints", "business"],
-      email: "idwh@kea.dk"
+      email: "idwh@kea.dk",
+      kids: 1
     }
   ];
 
   const teachers = data.map(teacher => {
-    return (
-      <Teacher
-        name={teacher.name}
-        email={teacher.email}
-        hobbies={teacher.hobbies}
-      />
-    );
+    return <Teacher {...teacher} />;
   });
   return (
     <div id="App">
