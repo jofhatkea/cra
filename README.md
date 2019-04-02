@@ -72,3 +72,13 @@ alt="keys" width="240" height="180" border="10" /></a>
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=DSov_RH0t70
 " target="_blank"><img src="http://img.youtube.com/vi/DSov_RH0t70/0.jpg" 
 alt="CSS" width="240" height="180" border="10" /></a>
+
+9. Conditional rendering
+
+- showing stuff if
+- short circuit evaluation
+- components as variables
+
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=hER36Zz7Rxo
+" target="_blank"><img src="http://img.youtube.com/vi/hER36Zz7Rxo/0.jpg" 
+alt="Conditional Rendering" width="240" height="180" border="10" /></a>

@@ -9,7 +9,7 @@ export default function App() {
       hobbies: ["js", "beer"],
       email: "jofh@kea.dk",
       kids: 3,
-      cars: "Berlingo"
+      car: "Berlingo"
     },
     {
       id: 345,
