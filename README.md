@@ -56,6 +56,10 @@ alt="Spread Operator" width="240" height="180" border="10" /></a>
 
 - splitting up our code
 
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=fA_OMCS5v50
-" target="_blank"><img src="http://img.youtube.com/vi/fA_OMCS5v50/0.jpg" 
-alt="import/export" width="240" height="180" border="10" /></a>
+7. keys
+
+- fixing the error in the console
+
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=cTXCmyR0r3c
+" target="_blank"><img src="http://img.youtube.com/vi/cTXCmyR0r3c/0.jpg" 
+alt="keys" width="240" height="180" border="10" /></a>
