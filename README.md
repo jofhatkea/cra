@@ -63,3 +63,12 @@ alt="Spread Operator" width="240" height="180" border="10" /></a>
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=cTXCmyR0r3c
 " target="_blank"><img src="http://img.youtube.com/vi/cTXCmyR0r3c/0.jpg" 
 alt="keys" width="240" height="180" border="10" /></a>
+
+8. CSS
+
+- importing
+- className
+
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=DSov_RH0t70
+" target="_blank"><img src="http://img.youtube.com/vi/DSov_RH0t70/0.jpg" 
+alt="CSS" width="240" height="180" border="10" /></a>
