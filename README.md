@@ -35,3 +35,11 @@ alt="functional components" width="240" height="180" border="10" /></a>
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=2ZFeXxX_dmM
 " target="_blank"><img src="http://img.youtube.com/vi/2ZFeXxX_dmM/0.jpg" 
 alt="passing down props" width="240" height="180" border="10" /></a>
+
+4. Rendering arrays
+
+- map
+
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=TLWg2BszaUU
+" target="_blank"><img src="http://img.youtube.com/vi/TLWg2BszaUU/0.jpg" 
+alt="Rendering Arrays" width="240" height="180" border="10" /></a>
