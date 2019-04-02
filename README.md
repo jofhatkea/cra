@@ -51,3 +51,11 @@ alt="Rendering Arrays" width="240" height="180" border="10" /></a>
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=s5WwkDTULpo
 " target="_blank"><img src="http://img.youtube.com/vi/s5WwkDTULpo/0.jpg" 
 alt="Spread Operator" width="240" height="180" border="10" /></a>
+
+6. import export
+
+- splitting up our code
+
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=fA_OMCS5v50
+" target="_blank"><img src="http://img.youtube.com/vi/fA_OMCS5v50/0.jpg" 
+alt="import/export" width="240" height="180" border="10" /></a>
