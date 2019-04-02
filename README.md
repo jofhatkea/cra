@@ -25,3 +25,13 @@ alt="Create-React-App & Branches for the tutorial" width="240" height="180" bord
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=kxI9falAjuY
 " target="_blank"><img src="http://img.youtube.com/vi/kxI9falAjuY/0.jpg" 
 alt="functional components" width="240" height="180" border="10" /></a>
+
+3. React Developer Tools and passing down props
+
+- https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi
+- installing, viewing
+- passing down props
+
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=2ZFeXxX_dmM
+" target="_blank"><img src="http://img.youtube.com/vi/2ZFeXxX_dmM/0.jpg" 
+alt="passing down props" width="240" height="180" border="10" /></a>
